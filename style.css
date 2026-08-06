@@ -6,7 +6,9 @@
   border: 1px solid green;
   }
 
-.question-three {}
+.question-three {
+  border: 1px solid blue;
+}
 
 .question-four {}
 
