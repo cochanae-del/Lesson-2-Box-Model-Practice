@@ -3,12 +3,8 @@
 }
 
 .question-two {
-  display: flex;
-  flex-direction: row;
   border: 1px solid green;
-  justify-content: space-between;
-  flex-shrink: 
-}
+  }
 
 .question-three {}
 
