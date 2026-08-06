@@ -4,8 +4,9 @@
 
 .question-two {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   border: 1px solid green;
+  justify-content: space-between;
 }
 
 .question-three {}
