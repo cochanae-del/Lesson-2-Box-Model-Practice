@@ -17,6 +17,9 @@
   
 }
 
-.question-five {}
+.question-five {
+  border: 5px double black;
+  border-width: thick;
+}
 
 .question-six {}
