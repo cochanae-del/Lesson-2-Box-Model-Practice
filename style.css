@@ -8,7 +8,7 @@
 
 .question-three {
   border: 1px solid blue;
-  margin: 0px 11px;
+  margin: 0px 10px;
 }
 
 .question-four {
@@ -23,5 +23,5 @@
 .question-six {
   border: 10px double green;
   padding: 2px 5px 2px 5px;
-  margin: 0px 11px;
+  margin: 0px 5px;
 }
