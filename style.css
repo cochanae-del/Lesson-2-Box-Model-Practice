@@ -11,7 +11,10 @@
   margin: 0px 12px;
 }
 
-.question-four {}
+.question-four {
+  border: 1px dotted black;
+  margin: 5px 5px 5px 5px;
+}
 
 .question-five {}
 
