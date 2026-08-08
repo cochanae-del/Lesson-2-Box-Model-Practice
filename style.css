@@ -18,8 +18,9 @@
 }
 
 .question-five {
-  border: 5px double black;
-  border-width: 10px;
+  border: 10px double black;
 }
 
-.question-six {}
+.question-six {
+  border: 10px double green;
+}
